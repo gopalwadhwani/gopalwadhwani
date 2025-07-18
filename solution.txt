@@ -1,0 +1,12 @@
+
+I Created a function that takes two parameters
+-an array arr and size of array n.
+
+then inside function I Declared two variables xorArr and xorTotal.
+
+First loop XORs xorArr with arr[i] which gives: 9, 6, 4, 2, 3, 5, 7, 0, 1.
+Second loop XORs xorTotal with i that is numbers from 0 to n (0 to 9) 
+which gives: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+then XORing xorArr and xorTotal cancels out common numbers,
+leaving the missing number (8) which is then returned.
