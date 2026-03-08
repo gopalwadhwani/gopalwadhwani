@@ -213,7 +213,8 @@ Built with a strong focus on **performance, responsiveness, and usability**, the
 
 [![🔗 Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://weather-app-gamma-topaz-69.vercel.app)
 &nbsp;&nbsp;
-[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani)
+[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani/weather-app
+)
 
 </div>
 
@@ -257,7 +258,7 @@ This project highlights my skills in **modern frontend development, responsive d
 
 [![🔗 Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-FF6B6B?style=for-the-badge&logoColor=white)](https://ecommerce-ui-beryl.vercel.app)
 &nbsp;&nbsp;
-[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani)
+[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani/ecommerce-ui)
 
 </div>
 
@@ -301,7 +302,7 @@ Beyond simply displaying projects, the website tells the story of **my growth as
 
 [![🔗 Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-00C49A?style=for-the-badge&logoColor=white)](https://my-portfolio-1kz2.vercel.app)
 &nbsp;&nbsp;
-[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani)
+[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani/my-portfolio)
 
 </div>
 
@@ -345,7 +346,7 @@ The website highlights key sections such as **menu highlights, brand story, ambi
 
 [![🔗 Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-F59E0B?style=for-the-badge&logoColor=white)](https://cafe-craft-six.vercel.app)
 &nbsp;&nbsp;
-[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani)
+[![📂 Source Code](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalwadhwani/cafe-craft)
 
 </div>
 
