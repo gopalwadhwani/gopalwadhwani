@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/gopalwadhwani">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%94%A5;DSA+Enthusiast+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%8C%B1;Building+the+Web%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
