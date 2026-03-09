@@ -395,13 +395,13 @@ The website highlights key sections such as **menu highlights, brand story, ambi
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gopalwadhwani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=gopalwadhwani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" width="49%" />
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=gopalwadhwani&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&cache_seconds=1800" alt="GitHub Streak" width="49%" />
 
 <br/><br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalwadhwani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gopalwadhwani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" width="42%" />
 
 <br/><br/><br/>
 
